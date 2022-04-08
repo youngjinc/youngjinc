@@ -9,7 +9,7 @@
 
 ## **Projects**
 **2021 May**&nbsp;&nbsp; &nbsp;
-Full stack development and UI design |  [WISH BOARD](https://github.com/hyeeyoung/wishboard-android), Wishlist integrated management app for Android
+Full stack development and UI design |  [WISH BOARD](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard), Wishlist integrated management app for Android
 
 **2020 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full stack development and UI design | [PICK](https://github.com/yougjinc/Pick), Voting app to help you choose for Android
 

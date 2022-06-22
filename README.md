@@ -45,3 +45,7 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <img src="https://img.shields.io/badge/Slack-97ddf4?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-97ddf4?style=flat-square&logo=notion&logoColor=black"/>&nbsp;
 </p>
+
+<br>
+
+Copyright ©Youngjin Choi. All rights reserved.

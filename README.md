@@ -42,6 +42,7 @@ Full stack development and UI design |  [WISH BOARD](https://play.google.com/sto
 <img src="https://img.shields.io/badge/Photoshop-97ddf4?style=flat-square&logo=adobephotoshop&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/XD-97ddf4?style=flat-square&logo=adobexd&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-97ddf4?style=flat-square&logo=git&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/GitKraken-97ddf4?style=flat-square&logo=gitkraken&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Slack-97ddf4?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-97ddf4?style=flat-square&logo=notion&logoColor=black"/>&nbsp;
 </p>

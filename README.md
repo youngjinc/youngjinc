@@ -23,7 +23,7 @@ Android development and UI design &nbsp;|&nbsp;  [WISH BOARD](https://play.googl
 
 <br>
 
-## **Education**
+## **Experience**
 **2021 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team Depply,&nbsp;&nbsp; Android development intern
 
 

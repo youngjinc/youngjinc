@@ -24,6 +24,10 @@ Android development and UI design &nbsp;|&nbsp;  [WISH BOARD](https://play.googl
 <br>
 
 ## **Experience**
+**2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sopt 31st Android Part 
+
+**2022 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sopt 30th Android Part 
+
 **2021 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team Depply,&nbsp;&nbsp; Android development intern
 
 

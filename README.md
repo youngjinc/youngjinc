@@ -4,22 +4,22 @@
 <br>
 
 ## **Education**
-**2018 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University,&nbsp;&nbsp; Computer Engineering &nbsp;&&nbsp; Service Design Engineering
+**2018 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University,&nbsp;&nbsp; Computer Engineering & Service Design Engineering
 
 <br>
 
 ## **Projects**
 **2022 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Android development &nbsp;&nbsp;|&nbsp;&nbsp;  [HEALTH FOOD & ME](https://play.google.com/store/apps/details?id=org.helfoome),&nbsp;&nbsp; Restaurant recommendation map app for dieters
+Android development &nbsp;|&nbsp; [HEALTH FOOD & ME](https://play.google.com/store/apps/details?id=org.helfoome),&nbsp;&nbsp; Restaurant recommendation map app for dieters
 
 **2021 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Android development and UI design &nbsp;&nbsp;|&nbsp;&nbsp;  [WISH BOARD](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard),&nbsp;&nbsp; Wishlist integrated management app
+Android development and UI design &nbsp;|&nbsp;  [WISH BOARD](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard),&nbsp;&nbsp; Wishlist integrated management app
 
-**2020 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full stack development and UI design &nbsp;&nbsp;|&nbsp;&nbsp; [PICK](https://github.com/yougjinc/Pick),&nbsp;&nbsp; Voting app to help you choose
+**2020 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full stack development and UI design &nbsp;|&nbsp; [PICK](https://github.com/yougjinc/Pick),&nbsp;&nbsp; Voting app to help you choose
 
-**2019 Oct**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android development &nbsp;&nbsp;|&nbsp;&nbsp; [냉장GO](https://github.com/youngjinc/NaengjanGo),&nbsp;&nbsp; Refrigerator ingredients management app
+**2019 Oct**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android development &nbsp;|&nbsp; [냉장GO](https://github.com/youngjinc/NaengjanGo),&nbsp;&nbsp; Refrigerator ingredients management app
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University Software Competition Bronze Award
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University Software Competition Bronze Award
 
 <br>
 

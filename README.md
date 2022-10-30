@@ -4,21 +4,31 @@
 <br>
 
 ## **Education**
-**2018 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University, Computer Engineering & Service Design Engineering
+**2018 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University,&nbsp;&nbsp; Computer Engineering &nbsp;&&nbsp; Service Design Engineering
 
 <br>
 
 ## **Projects**
-**2021 May**&nbsp;&nbsp; &nbsp;
-Full stack development and UI design |  [WISH BOARD](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard), Wishlist integrated management app for Android
+**2022 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Android development &nbsp;&nbsp;|&nbsp;&nbsp;  [HEALTH FOOD & ME](https://play.google.com/store/apps/details?id=org.helfoome),&nbsp;&nbsp; Restaurant recommendation map app for dieters
 
-**2020 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full stack development and UI design | [PICK](https://github.com/yougjinc/Pick), Voting app to help you choose for Android
+**2021 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Android development and UI design &nbsp;&nbsp;|&nbsp;&nbsp;  [WISH BOARD](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard),&nbsp;&nbsp; Wishlist integrated management app
 
-**2019 Oct**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android development | [냉장GO](https://github.com/youngjinc/NaengjanGo), Refrigerator ingredients management app for Android
+**2020 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full stack development and UI design &nbsp;&nbsp;|&nbsp;&nbsp; [PICK](https://github.com/yougjinc/Pick),&nbsp;&nbsp; Voting app to help you choose
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University Software Competition, a bronze statue in the lower grades
+**2019 Oct**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android development &nbsp;&nbsp;|&nbsp;&nbsp; [냉장GO](https://github.com/youngjinc/NaengjanGo),&nbsp;&nbsp; Refrigerator ingredients management app
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University Software Competition Bronze Award
 
 <br>
+
+## **Education**
+**2021 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Team Depply,&nbsp;&nbsp; Android development intern
+
+
+<br>
+
 
 ## **Skills**
 <img src="https://img.shields.io/badge/Android-3DFC84?style=flat-square&logo=Android&logoColor=black"/>&nbsp;

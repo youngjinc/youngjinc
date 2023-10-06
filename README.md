@@ -1,14 +1,22 @@
 <center>
-<img src="https://capsule-render.vercel.app/api?text=Youngjin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choi&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=100"/></center>
+<!-- <img src="https://capsule-render.vercel.app/api?text=Youngjin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choi&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=100"/> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Youngjin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choi&fontColor=FFFFFF&type=soft&color=00ff0000&animation=twinkling&fontSize=100">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Youngjin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choi&fontColor=000000&type=soft&color=00ff0000&animation=twinkling&fontSize=100">
+  <img alt="youngjin choi" src="https://capsule-render.vercel.app/api?text=Youngjin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choi&fontColor=000000&type=soft&color=00ff0000&animation=twinkling&fontSize=100">
+</picture>
+
+</center>
 
 <br>
 
-## **Education**
+## Education
 **2018 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University,&nbsp;&nbsp; Computer Engineering & Service Design Engineering
 
 <br>
 
-## **Projects**
+## Projects
 **2023 Jan**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android development &nbsp;|&nbsp; [KEEP GO EAT](https://play.google.com/store/apps/details?id=org.keepgoeat),&nbsp;&nbsp; Eating habit tracker app
 
 **2022 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,8 +33,8 @@ Android development and UI design &nbsp;|&nbsp;  [WISH BOARD](https://play.googl
 
 <br>
 
-## **Experience**
-**2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sopt 31st Android Part 
+## Experience
+**2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sopt 31st Android Part 
 
 **2022 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sopt 30th Android Part 
 
@@ -36,7 +44,7 @@ Android development and UI design &nbsp;|&nbsp;  [WISH BOARD](https://play.googl
 <br>
 
 
-## **Skills**
+## Skills
 <img src="https://img.shields.io/badge/Android-3DFC84?style=flat-square&logo=Android&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-3DFC84?style=flat-square&logo=Kotlin&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-3DFC84?style=flat-square&logo=Java&logoColor=black"/>&nbsp;
@@ -53,7 +61,7 @@ Android development and UI design &nbsp;|&nbsp;  [WISH BOARD](https://play.googl
 
 <br>
 
-## **Tools**
+## Tools
 <img src="https://img.shields.io/badge/Figma-97ddf4?style=flat-square&logo=figma&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Illustrator-97ddf4?style=flat-square&logo=adobeillustrator&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Photoshop-97ddf4?style=flat-square&logo=adobephotoshop&logoColor=black"/>&nbsp;
